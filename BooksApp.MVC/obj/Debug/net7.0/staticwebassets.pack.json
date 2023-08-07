@@ -1,0 +1,581 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Furkan\\Desktop\\GitHub\\BRIGHT-2023-1\\BÖLÜM-10-MVC\\Week-19\\25-06-2023\\BooksApp\\BooksApp.MVC\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\BooksApp.MVC.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BooksApp.MVC.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\Desktop\\GitHub\\BRIGHT-2023-1\\BÖLÜM-10-MVC\\Week-19\\25-06-2023\\BooksApp\\BooksApp.MVC\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\Desktop\\GitHub\\BRIGHT-2023-1\\BÖLÜM-10-MVC\\Week-19\\25-06-2023\\BooksApp\\BooksApp.MVC\\wwwroot\\css\\styles.css",
+      "PackagePath": "staticwebassets\\css\\styles.css"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\Desktop\\GitHub\\BRIGHT-2023-1\\BÖLÜM-10-MVC\\Week-19\\25-06-2023\\BooksApp\\BooksApp.MVC\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\Desktop\\GitHub\\BRIGHT-2023-1\\BÖLÜM-10-MVC\\Week-19\\25-06-2023\\BooksApp\\BooksApp.MVC\\wwwroot\\images\\authors\\afsin-kum.jpg",
+      "PackagePath": "staticwebassets\\images\\authors\\afsin-kum.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\Desktop\\GitHub\\BRIGHT-2023-1\\BÖLÜM-10-MVC\\Week-19\\25-06-2023\\BooksApp\\BooksApp.MVC\\wwwroot\\images\\authors\\charlotte-parkins-gilman.jpg",
+      "PackagePath": "staticwebassets\\images\\authors\\charlotte-parkins-gilman.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\Desktop\\GitHub\\BRIGHT-2023-1\\BÖLÜM-10-MVC\\Week-19\\25-06-2023\\BooksApp\\BooksApp.MVC\\wwwroot\\images\\authors\\default-profile.jpg",
+      "PackagePath": "staticwebassets\\images\\authors\\default-profile.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\Desktop\\GitHub\\BRIGHT-2023-1\\BÖLÜM-10-MVC\\Week-19\\25-06-2023\\BooksApp\\BooksApp.MVC\\wwwroot\\images\\authors\\douglas-adams.jpg",
+      "PackagePath": "staticwebassets\\images\\authors\\douglas-adams.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\Desktop\\GitHub\\BRIGHT-2023-1\\BÖLÜM-10-MVC\\Week-19\\25-06-2023\\BooksApp\\BooksApp.MVC\\wwwroot\\images\\authors\\fyodor-dostoyevski.jpg",
+      "PackagePath": "staticwebassets\\images\\authors\\fyodor-dostoyevski.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\Desktop\\GitHub\\BRIGHT-2023-1\\BÖLÜM-10-MVC\\Week-19\\25-06-2023\\BooksApp\\BooksApp.MVC\\wwwroot\\images\\authors\\george-orwell.jpg",
+      "PackagePath": "staticwebassets\\images\\authors\\george-orwell.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\Desktop\\GitHub\\BRIGHT-2023-1\\BÖLÜM-10-MVC\\Week-19\\25-06-2023\\BooksApp\\BooksApp.MVC\\wwwroot\\images\\authors\\herbert-george-wells.jpg",
+      "PackagePath": "staticwebassets\\images\\authors\\herbert-george-wells.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\Desktop\\GitHub\\BRIGHT-2023-1\\BÖLÜM-10-MVC\\Week-19\\25-06-2023\\BooksApp\\BooksApp.MVC\\wwwroot\\images\\authors\\hilel-green-44d758b6-93f0-4adb-9a0a-0fa21b2bfe55.png",
+      "PackagePath": "staticwebassets\\images\\authors\\hilel-green-44d758b6-93f0-4adb-9a0a-0fa21b2bfe55.png"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\Desktop\\GitHub\\BRIGHT-2023-1\\BÖLÜM-10-MVC\\Week-19\\25-06-2023\\BooksApp\\BooksApp.MVC\\wwwroot\\images\\authors\\hilel-green-6e462875-4d4a-4ea7-805c-318fda56c8e8.png",
+      "PackagePath": "staticwebassets\\images\\authors\\hilel-green-6e462875-4d4a-4ea7-805c-318fda56c8e8.png"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\Desktop\\GitHub\\BRIGHT-2023-1\\BÖLÜM-10-MVC\\Week-19\\25-06-2023\\BooksApp\\BooksApp.MVC\\wwwroot\\images\\authors\\hilel-green-95d76a61-6d70-4a0b-b7d2-f9261d3c0cb2.png",
+      "PackagePath": "staticwebassets\\images\\authors\\hilel-green-95d76a61-6d70-4a0b-b7d2-f9261d3c0cb2.png"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\Desktop\\GitHub\\BRIGHT-2023-1\\BÖLÜM-10-MVC\\Week-19\\25-06-2023\\BooksApp\\BooksApp.MVC\\wwwroot\\images\\authors\\ilber-ortayli.jpg",
+      "PackagePath": "staticwebassets\\images\\authors\\ilber-ortayli.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\Desktop\\GitHub\\BRIGHT-2023-1\\BÖLÜM-10-MVC\\Week-19\\25-06-2023\\BooksApp\\BooksApp.MVC\\wwwroot\\images\\authors\\lev-nikolayevic-tolstoy.jpg",
+      "PackagePath": "staticwebassets\\images\\authors\\lev-nikolayevic-tolstoy.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\Desktop\\GitHub\\BRIGHT-2023-1\\BÖLÜM-10-MVC\\Week-19\\25-06-2023\\BooksApp\\BooksApp.MVC\\wwwroot\\images\\authors\\manon-steffan-ros.jpg",
+      "PackagePath": "staticwebassets\\images\\authors\\manon-steffan-ros.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\Desktop\\GitHub\\BRIGHT-2023-1\\BÖLÜM-10-MVC\\Week-19\\25-06-2023\\BooksApp\\BooksApp.MVC\\wwwroot\\images\\authors\\matt-haig.jpeg",
+      "PackagePath": "staticwebassets\\images\\authors\\matt-haig.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\Desktop\\GitHub\\BRIGHT-2023-1\\BÖLÜM-10-MVC\\Week-19\\25-06-2023\\BooksApp\\BooksApp.MVC\\wwwroot\\images\\authors\\mustafa-kemal-ataturk.jpg",
+      "PackagePath": "staticwebassets\\images\\authors\\mustafa-kemal-ataturk.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\Desktop\\GitHub\\BRIGHT-2023-1\\BÖLÜM-10-MVC\\Week-19\\25-06-2023\\BooksApp\\BooksApp.MVC\\wwwroot\\images\\authors\\osamu-dazai.jpg",
+      "PackagePath": "staticwebassets\\images\\authors\\osamu-dazai.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\Desktop\\GitHub\\BRIGHT-2023-1\\BÖLÜM-10-MVC\\Week-19\\25-06-2023\\BooksApp\\BooksApp.MVC\\wwwroot\\images\\authors\\ray-douglas-bradbury.jpg",
+      "PackagePath": "staticwebassets\\images\\authors\\ray-douglas-bradbury.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\Desktop\\GitHub\\BRIGHT-2023-1\\BÖLÜM-10-MVC\\Week-19\\25-06-2023\\BooksApp\\BooksApp.MVC\\wwwroot\\images\\authors\\stephen-william-hawking.jpg",
+      "PackagePath": "staticwebassets\\images\\authors\\stephen-william-hawking.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\Desktop\\GitHub\\BRIGHT-2023-1\\BÖLÜM-10-MVC\\Week-19\\25-06-2023\\BooksApp\\BooksApp.MVC\\wwwroot\\images\\authors\\yuval-noah-harari.jpg",
+      "PackagePath": "staticwebassets\\images\\authors\\yuval-noah-harari.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\Desktop\\GitHub\\BRIGHT-2023-1\\BÖLÜM-10-MVC\\Week-19\\25-06-2023\\BooksApp\\BooksApp.MVC\\wwwroot\\images\\books\\aaron-douglas-47466237-9585-4dda-9606-c7014c904c3e.jpg",
+      "PackagePath": "staticwebassets\\images\\books\\aaron-douglas-47466237-9585-4dda-9606-c7014c904c3e.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\Desktop\\GitHub\\BRIGHT-2023-1\\BÖLÜM-10-MVC\\Week-19\\25-06-2023\\BooksApp\\BooksApp.MVC\\wwwroot\\images\\books\\abigail-potts-eaf8594c-972a-4386-892c-0fd033c25598.jpg",
+      "PackagePath": "staticwebassets\\images\\books\\abigail-potts-eaf8594c-972a-4386-892c-0fd033c25598.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\Desktop\\GitHub\\BRIGHT-2023-1\\BÖLÜM-10-MVC\\Week-19\\25-06-2023\\BooksApp\\BooksApp.MVC\\wwwroot\\images\\books\\amery-lara-7b6df91f-767a-48e3-9f76-03ee9113b946.png",
+      "PackagePath": "staticwebassets\\images\\books\\amery-lara-7b6df91f-767a-48e3-9f76-03ee9113b946.png"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\Desktop\\GitHub\\BRIGHT-2023-1\\BÖLÜM-10-MVC\\Week-19\\25-06-2023\\BooksApp\\BooksApp.MVC\\wwwroot\\images\\books\\amery-lara-a908b0f0-e44d-40f2-84ee-29ba62e9cb2b.png",
+      "PackagePath": "staticwebassets\\images\\books\\amery-lara-a908b0f0-e44d-40f2-84ee-29ba62e9cb2b.png"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\Desktop\\GitHub\\BRIGHT-2023-1\\BÖLÜM-10-MVC\\Week-19\\25-06-2023\\BooksApp\\BooksApp.MVC\\wwwroot\\images\\books\\aspen-stewart-0f07a2e0-c803-48ec-a855-4ac09947d692.jpg",
+      "PackagePath": "staticwebassets\\images\\books\\aspen-stewart-0f07a2e0-c803-48ec-a855-4ac09947d692.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\Desktop\\GitHub\\BRIGHT-2023-1\\BÖLÜM-10-MVC\\Week-19\\25-06-2023\\BooksApp\\BooksApp.MVC\\wwwroot\\images\\books\\benjamin-reilly-ba779ea0-9734-4c50-9091-f001626ccd1b.png",
+      "PackagePath": "staticwebassets\\images\\books\\benjamin-reilly-ba779ea0-9734-4c50-9091-f001626ccd1b.png"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\Desktop\\GitHub\\BRIGHT-2023-1\\BÖLÜM-10-MVC\\Week-19\\25-06-2023\\BooksApp\\BooksApp.MVC\\wwwroot\\images\\books\\bernard-williams-d6ba9a4e-190c-4b37-aaae-62bdbbf89807.png",
+      "PackagePath": "staticwebassets\\images\\books\\bernard-williams-d6ba9a4e-190c-4b37-aaae-62bdbbf89807.png"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\Desktop\\GitHub\\BRIGHT-2023-1\\BÖLÜM-10-MVC\\Week-19\\25-06-2023\\BooksApp\\BooksApp.MVC\\wwwroot\\images\\books\\bianca-mitchell-592a56a3-5de9-4446-bf5a-16e09a6a10a7.png",
+      "PackagePath": "staticwebassets\\images\\books\\bianca-mitchell-592a56a3-5de9-4446-bf5a-16e09a6a10a7.png"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\Desktop\\GitHub\\BRIGHT-2023-1\\BÖLÜM-10-MVC\\Week-19\\25-06-2023\\BooksApp\\BooksApp.MVC\\wwwroot\\images\\books\\bindokuzyuzseksendort-1984.jpg",
+      "PackagePath": "staticwebassets\\images\\books\\bindokuzyuzseksendort-1984.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\Desktop\\GitHub\\BRIGHT-2023-1\\BÖLÜM-10-MVC\\Week-19\\25-06-2023\\BooksApp\\BooksApp.MVC\\wwwroot\\images\\books\\brianna-fulton-de051c65-788f-4451-a181-6c1588d3dc34.jpg",
+      "PackagePath": "staticwebassets\\images\\books\\brianna-fulton-de051c65-788f-4451-a181-6c1588d3dc34.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\Desktop\\GitHub\\BRIGHT-2023-1\\BÖLÜM-10-MVC\\Week-19\\25-06-2023\\BooksApp\\BooksApp.MVC\\wwwroot\\images\\books\\cain-hale-f586eb8a-a4ad-4769-910b-5b88cd96d79d.png",
+      "PackagePath": "staticwebassets\\images\\books\\cain-hale-f586eb8a-a4ad-4769-910b-5b88cd96d79d.png"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\Desktop\\GitHub\\BRIGHT-2023-1\\BÖLÜM-10-MVC\\Week-19\\25-06-2023\\BooksApp\\BooksApp.MVC\\wwwroot\\images\\books\\cameron-gilliam-57afd7ca-30ea-46b7-a5a4-ae12e61f59e6.jpg",
+      "PackagePath": "staticwebassets\\images\\books\\cameron-gilliam-57afd7ca-30ea-46b7-a5a4-ae12e61f59e6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\Desktop\\GitHub\\BRIGHT-2023-1\\BÖLÜM-10-MVC\\Week-19\\25-06-2023\\BooksApp\\BooksApp.MVC\\wwwroot\\images\\books\\claudia-mcintosh-ba226dc7-0783-43c8-83ce-d5a7870438e4.png",
+      "PackagePath": "staticwebassets\\images\\books\\claudia-mcintosh-ba226dc7-0783-43c8-83ce-d5a7870438e4.png"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\Desktop\\GitHub\\BRIGHT-2023-1\\BÖLÜM-10-MVC\\Week-19\\25-06-2023\\BooksApp\\BooksApp.MVC\\wwwroot\\images\\books\\dieter-santos-94b8f2ce-f2d9-4ddc-ae5c-053eaf33416f.png",
+      "PackagePath": "staticwebassets\\images\\books\\dieter-santos-94b8f2ce-f2d9-4ddc-ae5c-053eaf33416f.png"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\Desktop\\GitHub\\BRIGHT-2023-1\\BÖLÜM-10-MVC\\Week-19\\25-06-2023\\BooksApp\\BooksApp.MVC\\wwwroot\\images\\books\\drew-singleton-b10025a9-b6b2-4b2a-a8ca-417b13188b1e.png",
+      "PackagePath": "staticwebassets\\images\\books\\drew-singleton-b10025a9-b6b2-4b2a-a8ca-417b13188b1e.png"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\Desktop\\GitHub\\BRIGHT-2023-1\\BÖLÜM-10-MVC\\Week-19\\25-06-2023\\BooksApp\\BooksApp.MVC\\wwwroot\\images\\books\\efendi-uyaniyor.jpg",
+      "PackagePath": "staticwebassets\\images\\books\\efendi-uyaniyor.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\Desktop\\GitHub\\BRIGHT-2023-1\\BÖLÜM-10-MVC\\Week-19\\25-06-2023\\BooksApp\\BooksApp.MVC\\wwwroot\\images\\books\\evrenin-sonundaki-restoran.jpg",
+      "PackagePath": "staticwebassets\\images\\books\\evrenin-sonundaki-restoran.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\Desktop\\GitHub\\BRIGHT-2023-1\\BÖLÜM-10-MVC\\Week-19\\25-06-2023\\BooksApp\\BooksApp.MVC\\wwwroot\\images\\books\\fahrenheit-451.jpg",
+      "PackagePath": "staticwebassets\\images\\books\\fahrenheit-451.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\Desktop\\GitHub\\BRIGHT-2023-1\\BÖLÜM-10-MVC\\Week-19\\25-06-2023\\BooksApp\\BooksApp.MVC\\wwwroot\\images\\books\\gece-yarisi-kutuphanesi.jpg",
+      "PackagePath": "staticwebassets\\images\\books\\gece-yarisi-kutuphanesi.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\Desktop\\GitHub\\BRIGHT-2023-1\\BÖLÜM-10-MVC\\Week-19\\25-06-2023\\BooksApp\\BooksApp.MVC\\wwwroot\\images\\books\\genevieve-sexton-e0c1336b-9545-4dea-a391-e5b9d732314c.png",
+      "PackagePath": "staticwebassets\\images\\books\\genevieve-sexton-e0c1336b-9545-4dea-a391-e5b9d732314c.png"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\Desktop\\GitHub\\BRIGHT-2023-1\\BÖLÜM-10-MVC\\Week-19\\25-06-2023\\BooksApp\\BooksApp.MVC\\wwwroot\\images\\books\\gorunmez-adam.jpg",
+      "PackagePath": "staticwebassets\\images\\books\\gorunmez-adam.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\Desktop\\GitHub\\BRIGHT-2023-1\\BÖLÜM-10-MVC\\Week-19\\25-06-2023\\BooksApp\\BooksApp.MVC\\wwwroot\\images\\books\\hayvan-ciftligi.jpg",
+      "PackagePath": "staticwebassets\\images\\books\\hayvan-ciftligi.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\Desktop\\GitHub\\BRIGHT-2023-1\\BÖLÜM-10-MVC\\Week-19\\25-06-2023\\BooksApp\\BooksApp.MVC\\wwwroot\\images\\books\\hayvanlardan-tanrilara-sapiens.jpg",
+      "PackagePath": "staticwebassets\\images\\books\\hayvanlardan-tanrilara-sapiens.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\Desktop\\GitHub\\BRIGHT-2023-1\\BÖLÜM-10-MVC\\Week-19\\25-06-2023\\BooksApp\\BooksApp.MVC\\wwwroot\\images\\books\\homo-deus-yarinin-kisa-bir-tarihi.jpg",
+      "PackagePath": "staticwebassets\\images\\books\\homo-deus-yarinin-kisa-bir-tarihi.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\Desktop\\GitHub\\BRIGHT-2023-1\\BÖLÜM-10-MVC\\Week-19\\25-06-2023\\BooksApp\\BooksApp.MVC\\wwwroot\\images\\books\\insan-gelecegini-nasil-kurar.jpg",
+      "PackagePath": "staticwebassets\\images\\books\\insan-gelecegini-nasil-kurar.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\Desktop\\GitHub\\BRIGHT-2023-1\\BÖLÜM-10-MVC\\Week-19\\25-06-2023\\BooksApp\\BooksApp.MVC\\wwwroot\\images\\books\\insanlar.jpg",
+      "PackagePath": "staticwebassets\\images\\books\\insanlar.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\Desktop\\GitHub\\BRIGHT-2023-1\\BÖLÜM-10-MVC\\Week-19\\25-06-2023\\BooksApp\\BooksApp.MVC\\wwwroot\\images\\books\\jaden-fuller-70b7b8c7-63e5-415e-ae90-4bdfcdadb815.png",
+      "PackagePath": "staticwebassets\\images\\books\\jaden-fuller-70b7b8c7-63e5-415e-ae90-4bdfcdadb815.png"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\Desktop\\GitHub\\BRIGHT-2023-1\\BÖLÜM-10-MVC\\Week-19\\25-06-2023\\BooksApp\\BooksApp.MVC\\wwwroot\\images\\books\\jeanette-porter-c3ddb029-11ad-42f4-9641-a73396659b65.png",
+      "PackagePath": "staticwebassets\\images\\books\\jeanette-porter-c3ddb029-11ad-42f4-9641-a73396659b65.png"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\Desktop\\GitHub\\BRIGHT-2023-1\\BÖLÜM-10-MVC\\Week-19\\25-06-2023\\BooksApp\\BooksApp.MVC\\wwwroot\\images\\books\\jonas-glover-4d7b9a79-00f4-4340-b877-1cdc01fa1688.png",
+      "PackagePath": "staticwebassets\\images\\books\\jonas-glover-4d7b9a79-00f4-4340-b877-1cdc01fa1688.png"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\Desktop\\GitHub\\BRIGHT-2023-1\\BÖLÜM-10-MVC\\Week-19\\25-06-2023\\BooksApp\\BooksApp.MVC\\wwwroot\\images\\books\\kadeem-young-5916fc4f-d635-493e-bbd1-e87d9fb71d87.png",
+      "PackagePath": "staticwebassets\\images\\books\\kadeem-young-5916fc4f-d635-493e-bbd1-e87d9fb71d87.png"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\Desktop\\GitHub\\BRIGHT-2023-1\\BÖLÜM-10-MVC\\Week-19\\25-06-2023\\BooksApp\\BooksApp.MVC\\wwwroot\\images\\books\\kadeem-young-9a7accc3-9e60-4e99-915d-bfbac046aaa5.png",
+      "PackagePath": "staticwebassets\\images\\books\\kadeem-young-9a7accc3-9e60-4e99-915d-bfbac046aaa5.png"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\Desktop\\GitHub\\BRIGHT-2023-1\\BÖLÜM-10-MVC\\Week-19\\25-06-2023\\BooksApp\\BooksApp.MVC\\wwwroot\\images\\books\\kadinlar-ulkesi.jpg",
+      "PackagePath": "staticwebassets\\images\\books\\kadinlar-ulkesi.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\Desktop\\GitHub\\BRIGHT-2023-1\\BÖLÜM-10-MVC\\Week-19\\25-06-2023\\BooksApp\\BooksApp.MVC\\wwwroot\\images\\books\\kameko-roth-da01985c-06bf-452b-8077-787a9708cd14.png",
+      "PackagePath": "staticwebassets\\images\\books\\kameko-roth-da01985c-06bf-452b-8077-787a9708cd14.png"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\Desktop\\GitHub\\BRIGHT-2023-1\\BÖLÜM-10-MVC\\Week-19\\25-06-2023\\BooksApp\\BooksApp.MVC\\wwwroot\\images\\books\\kara-delikler.jpg",
+      "PackagePath": "staticwebassets\\images\\books\\kara-delikler.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\Desktop\\GitHub\\BRIGHT-2023-1\\BÖLÜM-10-MVC\\Week-19\\25-06-2023\\BooksApp\\BooksApp.MVC\\wwwroot\\images\\books\\kiara-reilly-bf6e48be-9d2c-473f-86d2-3e2e27f8db37.png",
+      "PackagePath": "staticwebassets\\images\\books\\kiara-reilly-bf6e48be-9d2c-473f-86d2-3e2e27f8db37.png"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\Desktop\\GitHub\\BRIGHT-2023-1\\BÖLÜM-10-MVC\\Week-19\\25-06-2023\\BooksApp\\BooksApp.MVC\\wwwroot\\images\\books\\kumarbaz.jpg",
+      "PackagePath": "staticwebassets\\images\\books\\kumarbaz.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\Desktop\\GitHub\\BRIGHT-2023-1\\BÖLÜM-10-MVC\\Week-19\\25-06-2023\\BooksApp\\BooksApp.MVC\\wwwroot\\images\\books\\linda-rutledge-dc652a57-b100-47b3-901b-858babe45878.jpg",
+      "PackagePath": "staticwebassets\\images\\books\\linda-rutledge-dc652a57-b100-47b3-901b-858babe45878.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\Desktop\\GitHub\\BRIGHT-2023-1\\BÖLÜM-10-MVC\\Week-19\\25-06-2023\\BooksApp\\BooksApp.MVC\\wwwroot\\images\\books\\madeline-cervantes-9886fc1d-1d34-4afd-bfbd-d67fe49dc8d8.png",
+      "PackagePath": "staticwebassets\\images\\books\\madeline-cervantes-9886fc1d-1d34-4afd-bfbd-d67fe49dc8d8.png"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\Desktop\\GitHub\\BRIGHT-2023-1\\BÖLÜM-10-MVC\\Week-19\\25-06-2023\\BooksApp\\BooksApp.MVC\\wwwroot\\images\\books\\mark-spencer-10f03701-f867-444e-86a8-fbdb05d6ca79.png",
+      "PackagePath": "staticwebassets\\images\\books\\mark-spencer-10f03701-f867-444e-86a8-fbdb05d6ca79.png"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\Desktop\\GitHub\\BRIGHT-2023-1\\BÖLÜM-10-MVC\\Week-19\\25-06-2023\\BooksApp\\BooksApp.MVC\\wwwroot\\images\\books\\mufutau-williamson-f2813f53-7537-4911-803e-cd032888311e.png",
+      "PackagePath": "staticwebassets\\images\\books\\mufutau-williamson-f2813f53-7537-4911-803e-cd032888311e.png"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\Desktop\\GitHub\\BRIGHT-2023-1\\BÖLÜM-10-MVC\\Week-19\\25-06-2023\\BooksApp\\BooksApp.MVC\\wwwroot\\images\\books\\nebonun-mavi-kitabi.jpg",
+      "PackagePath": "staticwebassets\\images\\books\\nebonun-mavi-kitabi.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\Desktop\\GitHub\\BRIGHT-2023-1\\BÖLÜM-10-MVC\\Week-19\\25-06-2023\\BooksApp\\BooksApp.MVC\\wwwroot\\images\\books\\nutuk.jpg",
+      "PackagePath": "staticwebassets\\images\\books\\nutuk.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\Desktop\\GitHub\\BRIGHT-2023-1\\BÖLÜM-10-MVC\\Week-19\\25-06-2023\\BooksApp\\BooksApp.MVC\\wwwroot\\images\\books\\ogrenci-kiz.jpg",
+      "PackagePath": "staticwebassets\\images\\books\\ogrenci-kiz.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\Desktop\\GitHub\\BRIGHT-2023-1\\BÖLÜM-10-MVC\\Week-19\\25-06-2023\\BooksApp\\BooksApp.MVC\\wwwroot\\images\\books\\ori-buchanan-1f2517ec-6628-4c28-b867-a8787ede2b7c.png",
+      "PackagePath": "staticwebassets\\images\\books\\ori-buchanan-1f2517ec-6628-4c28-b867-a8787ede2b7c.png"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\Desktop\\GitHub\\BRIGHT-2023-1\\BÖLÜM-10-MVC\\Week-19\\25-06-2023\\BooksApp\\BooksApp.MVC\\wwwroot\\images\\books\\paki-cline-67d1aca4-3485-47c9-92ce-7c6689c0b0b4.png",
+      "PackagePath": "staticwebassets\\images\\books\\paki-cline-67d1aca4-3485-47c9-92ce-7c6689c0b0b4.png"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\Desktop\\GitHub\\BRIGHT-2023-1\\BÖLÜM-10-MVC\\Week-19\\25-06-2023\\BooksApp\\BooksApp.MVC\\wwwroot\\images\\books\\perry-giles-4bfcb96d-5545-4669-9164-a527107f57a3.jpg",
+      "PackagePath": "staticwebassets\\images\\books\\perry-giles-4bfcb96d-5545-4669-9164-a527107f57a3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\Desktop\\GitHub\\BRIGHT-2023-1\\BÖLÜM-10-MVC\\Week-19\\25-06-2023\\BooksApp\\BooksApp.MVC\\wwwroot\\images\\books\\rhona-reynolds-bdbfaa4a-bca5-4a1a-88b8-e9aba9422b98.png",
+      "PackagePath": "staticwebassets\\images\\books\\rhona-reynolds-bdbfaa4a-bca5-4a1a-88b8-e9aba9422b98.png"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\Desktop\\GitHub\\BRIGHT-2023-1\\BÖLÜM-10-MVC\\Week-19\\25-06-2023\\BooksApp\\BooksApp.MVC\\wwwroot\\images\\books\\rinah-hall-fb761eb8-34ed-4e18-ba36-8af186570a54.png",
+      "PackagePath": "staticwebassets\\images\\books\\rinah-hall-fb761eb8-34ed-4e18-ba36-8af186570a54.png"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\Desktop\\GitHub\\BRIGHT-2023-1\\BÖLÜM-10-MVC\\Week-19\\25-06-2023\\BooksApp\\BooksApp.MVC\\wwwroot\\images\\books\\savas-ve-baris.jpg",
+      "PackagePath": "staticwebassets\\images\\books\\savas-ve-baris.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\Desktop\\GitHub\\BRIGHT-2023-1\\BÖLÜM-10-MVC\\Week-19\\25-06-2023\\BooksApp\\BooksApp.MVC\\wwwroot\\images\\books\\sicak-kafa.jpg",
+      "PackagePath": "staticwebassets\\images\\books\\sicak-kafa.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\Desktop\\GitHub\\BRIGHT-2023-1\\BÖLÜM-10-MVC\\Week-19\\25-06-2023\\BooksApp\\BooksApp.MVC\\wwwroot\\images\\books\\tasha-avila-cb8b8ec2-b538-41a1-bf14-1cadc7175f5e.png",
+      "PackagePath": "staticwebassets\\images\\books\\tasha-avila-cb8b8ec2-b538-41a1-bf14-1cadc7175f5e.png"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\Desktop\\GitHub\\BRIGHT-2023-1\\BÖLÜM-10-MVC\\Week-19\\25-06-2023\\BooksApp\\BooksApp.MVC\\wwwroot\\images\\books\\vincent-medina-07c37e31-30ac-4e24-9841-a03892494904.png",
+      "PackagePath": "staticwebassets\\images\\books\\vincent-medina-07c37e31-30ac-4e24-9841-a03892494904.png"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\Desktop\\GitHub\\BRIGHT-2023-1\\BÖLÜM-10-MVC\\Week-19\\25-06-2023\\BooksApp\\BooksApp.MVC\\wwwroot\\images\\books\\yoko-powell-01eec587-a0b6-4ccd-ab9d-8ad245099b70.png",
+      "PackagePath": "staticwebassets\\images\\books\\yoko-powell-01eec587-a0b6-4ccd-ab9d-8ad245099b70.png"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\Desktop\\GitHub\\BRIGHT-2023-1\\BÖLÜM-10-MVC\\Week-19\\25-06-2023\\BooksApp\\BooksApp.MVC\\wwwroot\\images\\books\\yoko-powell-65649b5f-24bc-4b00-9ca8-4be8187919c4.png",
+      "PackagePath": "staticwebassets\\images\\books\\yoko-powell-65649b5f-24bc-4b00-9ca8-4be8187919c4.png"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\Desktop\\GitHub\\BRIGHT-2023-1\\BÖLÜM-10-MVC\\Week-19\\25-06-2023\\BooksApp\\BooksApp.MVC\\wwwroot\\images\\books\\yoko-powell-75d0425f-8ac9-4aad-b7f1-ada12aef02c7.png",
+      "PackagePath": "staticwebassets\\images\\books\\yoko-powell-75d0425f-8ac9-4aad-b7f1-ada12aef02c7.png"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\Desktop\\GitHub\\BRIGHT-2023-1\\BÖLÜM-10-MVC\\Week-19\\25-06-2023\\BooksApp\\BooksApp.MVC\\wwwroot\\images\\books\\yoko-powell-a2e97b01-6ff4-4788-8618-8588e56f5b0d.png",
+      "PackagePath": "staticwebassets\\images\\books\\yoko-powell-a2e97b01-6ff4-4788-8618-8588e56f5b0d.png"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\Desktop\\GitHub\\BRIGHT-2023-1\\BÖLÜM-10-MVC\\Week-19\\25-06-2023\\BooksApp\\BooksApp.MVC\\wwwroot\\images\\books\\zamani-durdurmanin-yollari.jpg",
+      "PackagePath": "staticwebassets\\images\\books\\zamani-durdurmanin-yollari.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\Desktop\\GitHub\\BRIGHT-2023-1\\BÖLÜM-10-MVC\\Week-19\\25-06-2023\\BooksApp\\BooksApp.MVC\\wwwroot\\images\\books\\zihin-kutuphanesi.jpg",
+      "PackagePath": "staticwebassets\\images\\books\\zihin-kutuphanesi.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\Desktop\\GitHub\\BRIGHT-2023-1\\BÖLÜM-10-MVC\\Week-19\\25-06-2023\\BooksApp\\BooksApp.MVC\\wwwroot\\js\\scripts.js",
+      "PackagePath": "staticwebassets\\js\\scripts.js"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\Desktop\\GitHub\\BRIGHT-2023-1\\BÖLÜM-10-MVC\\Week-19\\25-06-2023\\BooksApp\\BooksApp.MVC\\wwwroot\\json\\cities.json",
+      "PackagePath": "staticwebassets\\json\\cities.json"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\Desktop\\GitHub\\BRIGHT-2023-1\\BÖLÜM-10-MVC\\Week-19\\25-06-2023\\BooksApp\\BooksApp.MVC\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\Desktop\\GitHub\\BRIGHT-2023-1\\BÖLÜM-10-MVC\\Week-19\\25-06-2023\\BooksApp\\BooksApp.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\Desktop\\GitHub\\BRIGHT-2023-1\\BÖLÜM-10-MVC\\Week-19\\25-06-2023\\BooksApp\\BooksApp.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\Desktop\\GitHub\\BRIGHT-2023-1\\BÖLÜM-10-MVC\\Week-19\\25-06-2023\\BooksApp\\BooksApp.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\Desktop\\GitHub\\BRIGHT-2023-1\\BÖLÜM-10-MVC\\Week-19\\25-06-2023\\BooksApp\\BooksApp.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\Desktop\\GitHub\\BRIGHT-2023-1\\BÖLÜM-10-MVC\\Week-19\\25-06-2023\\BooksApp\\BooksApp.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\Desktop\\GitHub\\BRIGHT-2023-1\\BÖLÜM-10-MVC\\Week-19\\25-06-2023\\BooksApp\\BooksApp.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\Desktop\\GitHub\\BRIGHT-2023-1\\BÖLÜM-10-MVC\\Week-19\\25-06-2023\\BooksApp\\BooksApp.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\Desktop\\GitHub\\BRIGHT-2023-1\\BÖLÜM-10-MVC\\Week-19\\25-06-2023\\BooksApp\\BooksApp.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\Desktop\\GitHub\\BRIGHT-2023-1\\BÖLÜM-10-MVC\\Week-19\\25-06-2023\\BooksApp\\BooksApp.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\Desktop\\GitHub\\BRIGHT-2023-1\\BÖLÜM-10-MVC\\Week-19\\25-06-2023\\BooksApp\\BooksApp.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\Desktop\\GitHub\\BRIGHT-2023-1\\BÖLÜM-10-MVC\\Week-19\\25-06-2023\\BooksApp\\BooksApp.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\Desktop\\GitHub\\BRIGHT-2023-1\\BÖLÜM-10-MVC\\Week-19\\25-06-2023\\BooksApp\\BooksApp.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\Desktop\\GitHub\\BRIGHT-2023-1\\BÖLÜM-10-MVC\\Week-19\\25-06-2023\\BooksApp\\BooksApp.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\Desktop\\GitHub\\BRIGHT-2023-1\\BÖLÜM-10-MVC\\Week-19\\25-06-2023\\BooksApp\\BooksApp.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\Desktop\\GitHub\\BRIGHT-2023-1\\BÖLÜM-10-MVC\\Week-19\\25-06-2023\\BooksApp\\BooksApp.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\Desktop\\GitHub\\BRIGHT-2023-1\\BÖLÜM-10-MVC\\Week-19\\25-06-2023\\BooksApp\\BooksApp.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\Desktop\\GitHub\\BRIGHT-2023-1\\BÖLÜM-10-MVC\\Week-19\\25-06-2023\\BooksApp\\BooksApp.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\Desktop\\GitHub\\BRIGHT-2023-1\\BÖLÜM-10-MVC\\Week-19\\25-06-2023\\BooksApp\\BooksApp.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\Desktop\\GitHub\\BRIGHT-2023-1\\BÖLÜM-10-MVC\\Week-19\\25-06-2023\\BooksApp\\BooksApp.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\Desktop\\GitHub\\BRIGHT-2023-1\\BÖLÜM-10-MVC\\Week-19\\25-06-2023\\BooksApp\\BooksApp.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\Desktop\\GitHub\\BRIGHT-2023-1\\BÖLÜM-10-MVC\\Week-19\\25-06-2023\\BooksApp\\BooksApp.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\Desktop\\GitHub\\BRIGHT-2023-1\\BÖLÜM-10-MVC\\Week-19\\25-06-2023\\BooksApp\\BooksApp.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\Desktop\\GitHub\\BRIGHT-2023-1\\BÖLÜM-10-MVC\\Week-19\\25-06-2023\\BooksApp\\BooksApp.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\Desktop\\GitHub\\BRIGHT-2023-1\\BÖLÜM-10-MVC\\Week-19\\25-06-2023\\BooksApp\\BooksApp.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\Desktop\\GitHub\\BRIGHT-2023-1\\BÖLÜM-10-MVC\\Week-19\\25-06-2023\\BooksApp\\BooksApp.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\Desktop\\GitHub\\BRIGHT-2023-1\\BÖLÜM-10-MVC\\Week-19\\25-06-2023\\BooksApp\\BooksApp.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\Desktop\\GitHub\\BRIGHT-2023-1\\BÖLÜM-10-MVC\\Week-19\\25-06-2023\\BooksApp\\BooksApp.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\Desktop\\GitHub\\BRIGHT-2023-1\\BÖLÜM-10-MVC\\Week-19\\25-06-2023\\BooksApp\\BooksApp.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\Desktop\\GitHub\\BRIGHT-2023-1\\BÖLÜM-10-MVC\\Week-19\\25-06-2023\\BooksApp\\BooksApp.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\Desktop\\GitHub\\BRIGHT-2023-1\\BÖLÜM-10-MVC\\Week-19\\25-06-2023\\BooksApp\\BooksApp.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\Desktop\\GitHub\\BRIGHT-2023-1\\BÖLÜM-10-MVC\\Week-19\\25-06-2023\\BooksApp\\BooksApp.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\Desktop\\GitHub\\BRIGHT-2023-1\\BÖLÜM-10-MVC\\Week-19\\25-06-2023\\BooksApp\\BooksApp.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\Desktop\\GitHub\\BRIGHT-2023-1\\BÖLÜM-10-MVC\\Week-19\\25-06-2023\\BooksApp\\BooksApp.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\Desktop\\GitHub\\BRIGHT-2023-1\\BÖLÜM-10-MVC\\Week-19\\25-06-2023\\BooksApp\\BooksApp.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\Desktop\\GitHub\\BRIGHT-2023-1\\BÖLÜM-10-MVC\\Week-19\\25-06-2023\\BooksApp\\BooksApp.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\Desktop\\GitHub\\BRIGHT-2023-1\\BÖLÜM-10-MVC\\Week-19\\25-06-2023\\BooksApp\\BooksApp.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\Desktop\\GitHub\\BRIGHT-2023-1\\BÖLÜM-10-MVC\\Week-19\\25-06-2023\\BooksApp\\BooksApp.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\Desktop\\GitHub\\BRIGHT-2023-1\\BÖLÜM-10-MVC\\Week-19\\25-06-2023\\BooksApp\\BooksApp.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\Desktop\\GitHub\\BRIGHT-2023-1\\BÖLÜM-10-MVC\\Week-19\\25-06-2023\\BooksApp\\BooksApp.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\Desktop\\GitHub\\BRIGHT-2023-1\\BÖLÜM-10-MVC\\Week-19\\25-06-2023\\BooksApp\\BooksApp.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\Desktop\\GitHub\\BRIGHT-2023-1\\BÖLÜM-10-MVC\\Week-19\\25-06-2023\\BooksApp\\BooksApp.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\Desktop\\GitHub\\BRIGHT-2023-1\\BÖLÜM-10-MVC\\Week-19\\25-06-2023\\BooksApp\\BooksApp.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\Desktop\\GitHub\\BRIGHT-2023-1\\BÖLÜM-10-MVC\\Week-19\\25-06-2023\\BooksApp\\BooksApp.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\Desktop\\GitHub\\BRIGHT-2023-1\\BÖLÜM-10-MVC\\Week-19\\25-06-2023\\BooksApp\\BooksApp.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\Desktop\\GitHub\\BRIGHT-2023-1\\BÖLÜM-10-MVC\\Week-19\\25-06-2023\\BooksApp\\BooksApp.MVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\Desktop\\GitHub\\BRIGHT-2023-1\\BÖLÜM-10-MVC\\Week-19\\25-06-2023\\BooksApp\\BooksApp.MVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\Desktop\\GitHub\\BRIGHT-2023-1\\BÖLÜM-10-MVC\\Week-19\\25-06-2023\\BooksApp\\BooksApp.MVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\Desktop\\GitHub\\BRIGHT-2023-1\\BÖLÜM-10-MVC\\Week-19\\25-06-2023\\BooksApp\\BooksApp.MVC\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\Desktop\\GitHub\\BRIGHT-2023-1\\BÖLÜM-10-MVC\\Week-19\\25-06-2023\\BooksApp\\BooksApp.MVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\Desktop\\GitHub\\BRIGHT-2023-1\\BÖLÜM-10-MVC\\Week-19\\25-06-2023\\BooksApp\\BooksApp.MVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\Desktop\\GitHub\\BRIGHT-2023-1\\BÖLÜM-10-MVC\\Week-19\\25-06-2023\\BooksApp\\BooksApp.MVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\Desktop\\GitHub\\BRIGHT-2023-1\\BÖLÜM-10-MVC\\Week-19\\25-06-2023\\BooksApp\\BooksApp.MVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\Desktop\\GitHub\\BRIGHT-2023-1\\BÖLÜM-10-MVC\\Week-19\\25-06-2023\\BooksApp\\BooksApp.MVC\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\Desktop\\GitHub\\BRIGHT-2023-1\\BÖLÜM-10-MVC\\Week-19\\25-06-2023\\BooksApp\\BooksApp.MVC\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\Desktop\\GitHub\\BRIGHT-2023-1\\BÖLÜM-10-MVC\\Week-19\\25-06-2023\\BooksApp\\BooksApp.MVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Furkan\\Desktop\\GitHub\\BRIGHT-2023-1\\BÖLÜM-10-MVC\\Week-19\\25-06-2023\\BooksApp\\BooksApp.MVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.BooksApp.MVC.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.BooksApp.MVC.props",
+      "PackagePath": "build\\BooksApp.MVC.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.BooksApp.MVC.props",
+      "PackagePath": "buildMultiTargeting\\BooksApp.MVC.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.BooksApp.MVC.props",
+      "PackagePath": "buildTransitive\\BooksApp.MVC.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
